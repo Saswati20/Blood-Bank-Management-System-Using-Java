@@ -1,0 +1,36 @@
+/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+/* 
+    Created on : Feb 13, 2016, 7:51:28 PM
+    Author     : SHUBHI
+*/
+
+.mainDiv{
+    
+   width: 100%;
+   padding-top: 20px;
+   margin-top: -10px;
+   margin-left: -15px;
+   margin-right: 30px;
+    
+    background: #2E64FE;
+   
+    
+   
+       }
+  
+.regDiv{
+    
+   width: 60%;
+   background-color:#2E9AFE;
+    border-radius: 25px;
+    margin-left: 300px;
+    
+    padding: 20px;
+   
+    
+   
+       }
